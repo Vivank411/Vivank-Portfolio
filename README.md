@@ -1,4 +1,4 @@
-# 💻 Manvi Jain — Portfolio Website 
+# 💻 Vivank Tyagi — Portfolio Website 
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**,**Figma for Design** and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **Web Technologies, python**.
 
