@@ -41,7 +41,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-[git clone [https://github.com/your-username/Manvi_Jain-portfolio.git](https://github.com/Vivank411/Vivank-Portfolio.git)](https://github.com/Vivank411/Vivank-Portfolio.git)
+[git clone [https://github.com/Vivank411/Vivank-Portfolio.git](https://github.com/Vivank411/Vivank-Portfolio.git)
 
 # 2️⃣ Navigate to project directory
 Vivank-Portfolio
