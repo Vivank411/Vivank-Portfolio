@@ -2,15 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**,**Figma for Design** and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **Web Technologies, python**.
 
-🌐 **Website:** [[[Manvi Jain-Portfolio]]](https://manvi-jain-portfolio.netlify.app/)
-
-🖼️ **Screenshots**
-
-![Screenshot 1](public/assets/ss_1.jpg)
-![Screenshot 2](public/assets/ss_2.jpg)
-![Screenshot 3](public/assets/ss_3.jpg)
-
----
+🌐 **Website:** [[[Vivank Tyagi-Portfolio]]](https://vivank-tyagi-portfolio.netlify.app/)
 
 ## 🚀 Features
 
@@ -62,8 +54,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [jainmanvi004@gmail.com](mailto:jainmanvi004@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/manvi-jain-457183339](https://www.linkedin.com/in/manvi-jain-457183339/)
+* 📧 **Email:** [thevivank06@gmail.com](mailto:thevivank06@gmail.com)
+* 💼 **LinkedIn:** [Linkedin:](https://www.linkedin.com/in/vivank-tyagi-81907127b/)
 
 ---
 
