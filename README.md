@@ -34,10 +34,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/Manvi_Jain-portfolio.git
+[git clone https://github.com/your-username/Manvi_Jain-portfolio.git](https://github.com/Vivank411/Vivank-Portfolio.git)
 
 # 2️⃣ Navigate to project directory
-cd Manvi_Jain-portfolio
+Vivank-Portfolio
 
 # 3️⃣ Install dependencies
 npm install
