@@ -4,6 +4,13 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 
 🌐 **Website:** [[[Vivank Tyagi-Portfolio]]](https://vivank-tyagi-portfolio.netlify.app/)
 
+## Screenshots:
+<p>
+  <img src="https://github.com/user-attachments/assets/cac4c059-4899-4ac6-9708-917cfa295050" width="70%">
+  <img src="https://github.com/user-attachments/assets/46788b7a-a6da-4d6c-a915-4a57d71704f7" width="70%">
+  <img src="https://github.com/user-attachments/assets/cc52a119-7e58-46a8-a0ae-a49b91b781c6" width="70%">
+</p>
+
 ## 🚀 Features
 
 * 🎨 **Modern UI/UX** with black-based aesthetic theme used **FIgma Design**
@@ -34,7 +41,7 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-[git clone https://github.com/your-username/Manvi_Jain-portfolio.git](https://github.com/Vivank411/Vivank-Portfolio.git)
+[git clone [https://github.com/your-username/Manvi_Jain-portfolio.git](https://github.com/Vivank411/Vivank-Portfolio.git)](https://github.com/Vivank411/Vivank-Portfolio.git)
 
 # 2️⃣ Navigate to project directory
 Vivank-Portfolio
